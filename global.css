@@ -1,0 +1,14 @@
+* {
+    font-family: Roboto, sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+.content {
+    padding: 1rem;
+    background-color: #fff;
+    width: 100vw;
+    height: 100vh;
+}
